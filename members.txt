@@ -1,0 +1,16 @@
+Name,Address,City,State,Zip Code,Email Address,MembershipType
+Aisha Sharma,123 West Drone Dr,Boston,MA,02108,aisha.sharma@example.com,Gold
+Kenji Tanaka,45 Wayfair Way,Cambridge,MA,02139,kenji.tanaka@example.com,Bronze
+Noah Kim,67 River Dr Apt 3,Pawtucket,RI,02860,noah.kim@example.com,Silver
+Liam O'Connell,10 Northwest Avestan Ave,Worcester,MA,01605,liam.oconnell@example.com,Bronze
+Fatima Khan,23 St Johns St,Springfield,MA,01103,fatima.khan@example.com,Gold
+David Chen,56 Elmwood Ct,Providence,RI,02903,david.chen@example.com,Silver
+Olivia Jane Dubois,90 Birch Way Apt 9,Burlington,VT,05401,olivia.dubois@example.com,Bronze
+Ethan Miller,12 Oak Ave,Warwick,RI,02886,ethan.miller@example.com,Gold
+Isabella Rossi,34 Pine Rd,Cranston,RI,02910,isabella.rossi@example.com,Bronze
+Mateo Sanchez,11 Cedar St,Essex Junction,VT,05452,mateo.sanchez@example.com,Silver
+Chloe Nguyen,22 Spruce Ln,South Burlington,VT,05403,chloe.nguyen@example.com,Gold
+Daniel Ivanov,45 Willow Ave Apt 14C,Montpelier,VT,05602,daniel.ivanov@example.com,Bronze
+Amara Diallo,78 Poplar Rd,Colchester,VT,05446,amara.diallo@example.com,Silver
+Maria Carmen Rodriguez,789 Beacon St,Boston,MA,02116,maria.rodriguez@example.com,Gold
+Sophia Garcia,89 Maple Ln Apt 204,Newport,RI,02840,sophia.garcia@example.com,Bronze

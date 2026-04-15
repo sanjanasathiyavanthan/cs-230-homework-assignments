@@ -1,0 +1,230 @@
+#9385, aired 2025-07-25	Scott Riccardi vs. Charlotte Cooper vs. Jonathan Hugendubler	Scott Riccardi game 17. Last game of Season 41.
+#9384, aired 2025-07-24	Scott Riccardi vs. Sarah Rubenfeld vs. Senay Goitom	Scott Riccardi game 16.
+#9383, aired 2025-07-23	Scott Riccardi vs. Gerri Budd vs. Andrew Crowley	Scott Riccardi game 15.
+#9382, aired 2025-07-22	Scott Riccardi vs. Adriene Holland vs. Paul Ryan	Scott Riccardi game 14.
+#9381, aired 2025-07-21	Scott Riccardi vs. Anna Ciamporcero vs. Jeff Hague	Scott Riccardi game 13.
+#9380, aired 2025-07-18	Scott Riccardi vs. Julia Broussard vs. Ameen Ismail	Scott Riccardi game 12.
+#9379, aired 2025-07-17	Scott Riccardi vs. Chad Biele vs. Marisa Cohen	Scott Riccardi game 11.
+#9378, aired 2025-07-16	Scott Riccardi vs. Ivanna Lopez vs. Dave Richelsoph	Scott Riccardi game 10.
+#9377, aired 2025-07-15	Scott Riccardi vs. Pete Johnston vs. Carl Adams	Scott Riccardi game 9.
+#9376, aired 2025-07-14	Scott Riccardi vs. Amanda Hopkins vs. Paul Swain	Scott Riccardi game 8.
+#9375, aired 2025-07-11	Scott Riccardi vs. Andrew Wang vs. Edaureen Muhamad Nor	Scott Riccardi game 7. The production staff, crew, and their...
+#9374, aired 2025-07-10	Scott Riccardi vs. Austin Hobbs vs. Jolynda Chenicek	Scott Riccardi game 6.
+#9373, aired 2025-07-09	Scott Riccardi vs. Sarah Mulligan vs. Rahul Kak	Scott Riccardi game 5.
+#9372, aired 2025-07-08	Scott Riccardi vs. Dan Puma vs. Elise Canup	Scott Riccardi game 4.
+#9371, aired 2025-07-07	Scott Riccardi vs. Ashley Caval Curto vs. Vince Carter	Scott Riccardi game 3.
+#9370, aired 2025-07-04	Scott Riccardi vs. Ricky Chandak vs. Andi Levenson	Scott Riccardi game 2.
+#9369, aired 2025-07-03	Jason Singer vs. Katy Doll vs. Scott Riccardi	Scott Riccardi game 1.
+#9368, aired 2025-07-02	Jason Singer vs. Stephanie Yang vs. Jeff Foels
+#9367, aired 2025-07-01	Dave McBride vs. Heather Kompanek vs. Jason Singer
+#9366, aired 2025-06-30	Klay Frappier vs. Dave McBride vs. Eileen Darragh
+#9365, aired 2025-06-27	Rocco Graziano vs. Klay Frappier vs. Michelle Arguelles
+#9364, aired 2025-06-26	Kiley Campbell vs. Rocco Graziano vs. Janis Raye
+#9363, aired 2025-06-25	Micah Fritz vs. Kiley Campbell vs. Greg Harris
+#9362, aired 2025-06-24	Emily Croke vs. Nicholas Moline vs. Micah Fritz
+#9361, aired 2025-06-23	Andrew Brigger vs. Emily Croke vs. David Spelman
+#9360, aired 2025-06-20	Bevin Blaber vs. Andrew Brigger vs. Liv Markham
+#9359, aired 2025-06-19	Jacob Hale vs. Bevin Blaber vs. Vivek Upadhyay
+#9358, aired 2025-06-18	Dan Hopkins vs. Jacob Hale vs. Sunny Hwang
+#9357, aired 2025-06-17	Sarah Cox vs. Dan Hopkins vs. Stefany Meyer
+#9356, aired 2025-06-16	Katie Kornacki vs. Tom Thriveni vs. Sarah Cox
+#9355, aired 2025-06-13	Matt Massie vs. Katie Kornacki vs. Kelly Cui
+#9354, aired 2025-06-12	Matt Massie vs. Josh Prohofsky vs. Sean Addie
+#9353, aired 2025-06-11	Matt Massie vs. Jan Zimmerman vs. Rob Forrester
+#9352, aired 2025-06-10	Jackie Rogoff vs. John Reiss vs. Matt Massie
+#9351, aired 2025-06-09	Nikhil Joshi vs. Ted Nyman vs. Jackie Rogoff
+#9350, aired 2025-06-06	Nikhil Joshi vs. Elizabeth Hawkins vs. Brian O'Heron
+#9349, aired 2025-06-05	Joey Quismorio vs. Sarah Fuller vs. Nikhil Joshi
+#9348, aired 2025-06-04	Stella Trout vs. Jay Borsom vs. Joey Quismorio
+#9347, aired 2025-06-03	Geoff Barnes vs. Peter Vorissis vs. Stella Trout
+#9346, aired 2025-06-02	Geoff Barnes vs. Kyle Rahe vs. Abbi Klein
+#9345, aired 2025-05-30	Geoff Barnes vs. Heather Ide vs. Chad Heltzel
+#9344, aired 2025-05-29	Thomas Sweeney vs. Anne LaGatta vs. Geoff Barnes
+#9343, aired 2025-05-28	Tyler Griffith vs. Alice Welch vs. Thomas Sweeney
+#9342, aired 2025-05-27	Judith Friedman vs. Tyler Griffith vs. Jackie Yang
+#9341, aired 2025-05-26	Jim Carpenter vs. Judith Friedman vs. Miles Tepper
+#9340, aired 2025-05-23	Brendan Liaw vs. Jim Carpenter vs. David Crockett
+#9339, aired 2025-05-22	Brendan Liaw vs. Angela Mustapha vs. Matt Askins
+#9338, aired 2025-05-21	Brendan Liaw vs. Romy Negrin vs. Sam Macken
+#9337, aired 2025-05-20	Mitch Loflin vs. Brendan Liaw vs. Wendy Poush
+#9336, aired 2025-05-19	Mitch Loflin vs. Micah Green vs. Catherine Carnovale
+#9335, aired 2025-05-16	Brandon Monsman vs. Mitch Loflin vs. Erin Hoard
+#9334, aired 2025-05-15	Brandon Monsman vs. Neeraj Borle vs. Nick Marino
+#9333, aired 2025-05-14	Andrew Jones vs. Jen Johnson vs. Brandon Monsman
+#9332, aired 2025-05-13	Andrew Jones vs. Aaron Dmiszewicki vs. Katie Tarara
+#9331, aired 2025-05-12	Kara Peruccio vs. Andrew Jones vs. Rachel Hall
+#9330, aired 2025-05-09	Dan Moren vs. Kara Peruccio vs. Zach Dickstein
+#9329, aired 2025-05-08	Dan Moren vs. Christen Aragoni vs. Michael Mungin
+#9328, aired 2025-05-07	Sarah Gillis vs. Michelle Tsai vs. Dan Moren
+#9327, aired 2025-05-06	Ben Ganger vs. Sarah Gillis vs. Keegan Olson	Ben Ganger game 6.
+#9326, aired 2025-05-05	Ben Ganger vs. Ellen Goldlust vs. Rhyne Modlin	Ben Ganger game 5.
+#9325, aired 2025-05-02	Ben Ganger vs. Shweta Balasubramanian vs. Sam Sabulis	Ben Ganger game 4.
+#9324, aired 2025-05-01	Ben Ganger vs. Julie Holt vs. Scott Summers	Ben Ganger game 3.
+#9323, aired 2025-04-30	Ben Ganger vs. Jordan Stefanski vs. Roni Ackner	Ben Ganger game 2.
+#9322, aired 2025-04-29	Erin Morin vs. Ben Ganger vs. Rahel Zubairi	Ben Ganger game 1.
+#9321, aired 2025-04-28	Liam Starnes vs. Erin Morin vs. Steve Icsman	Liam Starnes game 7.
+#9320, aired 2025-04-25	Liam Starnes vs. Simon Liebling vs. Jenn Gardner	Liam Starnes game 6.
+#9319, aired 2025-04-24	Liam Starnes vs. Raguell Couch vs. Harold Goldston III	Liam Starnes game 5.
+#9318, aired 2025-04-23	Liam Starnes vs. Abigail Arnold vs. Eric Cordova	Liam Starnes game 4.
+#9317, aired 2025-04-22	Liam Starnes vs. Sara Grady vs. Kyle Dunn	Liam Starnes game 3.
+#9316, aired 2025-04-21	Liam Starnes vs. Bob Callen vs. Maja Vlajnic	Liam Starnes game 2.
+#9315, aired 2025-04-18	Steven Hoying vs. Rachael Gray vs. Liam Starnes	Liam Starnes game 1.
+#9314, aired 2025-04-17	Andrew Hayes vs. Steven Hoying vs. Michelle Dolinski	Andrew Hayes game 7.
+#9313, aired 2025-04-16	Andrew Hayes vs. Denise LeBlanc-Bock vs. Brenden Monroe	Andrew Hayes game 6.
+#9312, aired 2025-04-15	Andrew Hayes vs. Dondi DeMarco vs. Thomas Wilson	Andrew Hayes game 5.
+#9311, aired 2025-04-14	Andrew Hayes vs. Kyle Harvey vs. Jade Snelling	Andrew Hayes game 4.
+#9310, aired 2025-04-11	Andrew Hayes vs. Michael DiSciullo vs. Stephanie Rozman	Andrew Hayes game 3.
+#9309, aired 2025-04-10	Andrew Hayes vs. Dave Widmayer vs. Kat Donahoe	Andrew Hayes game 2.
+#9308, aired 2025-04-09	Mike Dawson vs. Courtney Martin vs. Andrew Hayes	Andrew Hayes game 1.
+#9307, aired 2025-04-08	Mike Dawson vs. Joe Lancour vs. Anise K. Strong-Morse
+#9306, aired 2025-04-07	Mike Dawson vs. Erin Li vs. Taylor Mattox
+#9305, aired 2025-04-04	Bryce Wargin vs. Guy Branum vs. Mike Dawson	Bryce Wargin game 5.
+#9304, aired 2025-04-03	Bryce Wargin vs. Mary Walheim vs. Alfred Wallace	Bryce Wargin game 4.
+#9303, aired 2025-04-02	Bryce Wargin vs. Lee Henry vs. Brina Ratangee	Bryce Wargin game 3.
+#9302, aired 2025-04-01	Bryce Wargin vs. Conner Huey vs. Kristen Ramsey	Bryce Wargin game 2.
+#9301, aired 2025-03-31	Josh Weikert vs. Bryce Wargin vs. Allison Willard	Josh Weikert game 7. Bryce Wargin game 1.
+#9300, aired 2025-03-28	Josh Weikert vs. Mike Budzinski vs. Revell Carr	Josh Weikert game 6.
+#9299, aired 2025-03-27	Josh Weikert vs. Neha Narayan vs. David Weir	Josh Weikert game 5.
+#9298, aired 2025-03-26	Josh Weikert vs. John Rindone vs. Melanie Hirsch	Josh Weikert game 4.
+#9297, aired 2025-03-25	Josh Weikert vs. Sara Balmuth vs. Eugene Huang	Josh Weikert game 3.
+#9296, aired 2025-03-24	Josh Weikert vs. Mustafa Hameed vs. Geraldine Rodriguez	Josh Weikert game 2.
+#9295, aired 2025-03-21	Cameron Berry vs. Steve Luck vs. Josh Weikert	Josh Weikert game 1.
+#9294, aired 2025-03-20	Alex DeFrank vs. Hillary Hess vs. Cameron Berry	Alex DeFrank game 5.
+#9293, aired 2025-03-19	Alex DeFrank vs. Ann Velenchik vs. Adam Silverman	Alex DeFrank game 4.
+#9292, aired 2025-03-18	Alex DeFrank vs. David DeBacker vs. Lily St. Laurent	Alex DeFrank game 3.
+#9291, aired 2025-03-17	Alex DeFrank vs. Clare Murray vs. Brett Aresco	Alex DeFrank game 2.
+#9290, aired 2025-03-14	Jack Goldfisher vs. Alex DeFrank vs. Jamie Hare	Alex DeFrank game 1.
+#9289, aired 2025-03-13	James Corson vs. Jack Goldfisher vs. Liz Engelhardt
+#9288, aired 2025-03-12	James Corson vs. Kristen VanBlargan vs. Brian Nieves
+#9287, aired 2025-03-11	Harvey Silikovitz vs. Emily Johnson vs. James Corson
+#9286, aired 2025-03-10	Laura Faddah vs. Harvey Silikovitz vs. Sabrina Blanks	Laura Faddah game 9.
+#9285, aired 2025-03-07	Laura Faddah vs. Omar Abu Realh vs. Roger Ghaman	Laura Faddah game 8.
+#9284, aired 2025-03-06	Matt Amodio vs. Roger Craig vs. Juveria Zaheer	2025 Jeopardy! Invitational Tournament final game 2.
+#9283, aired 2025-03-05	Matt Amodio vs. Roger Craig vs. Juveria Zaheer	2025 Jeopardy! Invitational Tournament final game 1.
+#9282, aired 2025-03-04	Raymond Goslow vs. Juveria Zaheer vs. Ray Lalonde	2025 Jeopardy! Invitational Tournament semifinal game 3.
+#9281, aired 2025-03-03	Matt Amodio vs. Luigi de Guzman vs. Emily Sands	2025 Jeopardy! Invitational Tournament semifinal game 2.
+#9280, aired 2025-02-28	Roger Craig vs. Jaskaran Singh vs. Shane Whitlock	2025 Jeopardy! Invitational Tournament semifinal game 1.
+#9279, aired 2025-02-27	Seth Wilson vs. Jackson Jones vs. Juveria Zaheer	2025 Jeopardy! Invitational Tournament quarterfinal game 9.
+#9278, aired 2025-02-26	Ben Chan vs. Claire Sattler vs. Shane Whitlock	2025 Jeopardy! Invitational Tournament quarterfinal game 8.
+#9277, aired 2025-02-25	Ray Lalonde vs. Robin Carroll vs. Ryan Long	2025 Jeopardy! Invitational Tournament quarterfinal game 7.
+#9276, aired 2025-02-24	Avi Gupta vs. Amy Schneider vs. Luigi de Guzman	2025 Jeopardy! Invitational Tournament quarterfinal game 6.
+#9275, aired 2025-02-21	Maya Wright vs. Roger Craig vs. John Focht	2025 Jeopardy! Invitational Tournament quarterfinal game 5.
+#9274, aired 2025-02-20	Raymond Goslow vs. Troy Meyer vs. Jackie Kelly	2025 Jeopardy! Invitational Tournament quarterfinal game 4.
+#9273, aired 2025-02-19	Emily Sands vs. Rachael Schwartz vs. Jonathan Fisher	2025 Jeopardy! Invitational Tournament quarterfinal game 3.
+#9272, aired 2025-02-18	Skyler Hornback vs. Margaret Shelton vs. Jaskaran Singh	2025 Jeopardy! Invitational Tournament quarterfinal game 2.
+#9271, aired 2025-02-17	Matt Amodio vs. Hannah Wilson vs. Doug Molitor	2025 Jeopardy! Invitational Tournament quarterfinal game 1.
+#9270, aired 2025-02-14	Adriana Harmeyer vs. Isaac Hirsch vs. Drew Basile	2025 Tournament of Champions exhibition game for players with byes...
+#9269, aired 2025-02-13	Adriana Harmeyer vs. Isaac Hirsch vs. Neilesh Vinjamuri	2025 Tournament of Champions final game 5.
+#9268, aired 2025-02-12	Adriana Harmeyer vs. Isaac Hirsch vs. Neilesh Vinjamuri	2025 Tournament of Champions final game 4.
+#9267, aired 2025-02-11	Adriana Harmeyer vs. Isaac Hirsch vs. Neilesh Vinjamuri	2025 Tournament of Champions final game 3.
+#9266, aired 2025-02-10	Adriana Harmeyer vs. Isaac Hirsch vs. Neilesh Vinjamuri	2025 Tournament of Champions final game 2.
+#9265, aired 2025-02-07	Adriana Harmeyer vs. Isaac Hirsch vs. Neilesh Vinjamuri	2025 Tournament of Champions final game 1.
+#9264, aired 2025-02-06	Drew Basile vs. Drew Goins vs. Neilesh Vinjamuri	2025 Tournament of Champions semifinal game 3.
+#9263, aired 2025-02-05	Isaac Hirsch vs. Mark Fitzpatrick vs. Amy Hummel	2025 Tournament of Champions semifinal game 2.
+#9262, aired 2025-02-04	Adriana Harmeyer vs. Ryan Manton vs. Will Wallace	2025 Tournament of Champions semifinal game 1.
+#9261, aired 2025-02-03	Drew Goins vs. Amar Kakirde vs. Lucas Partridge	2025 Tournament of Champions quarterfinal game 6.
+#9260, aired 2025-01-31	Mark Fitzpatrick vs. Allison Gross vs. Kevin Laskowski	2025 Tournament of Champions quarterfinal game 5.
+#9259, aired 2025-01-30	Mehal Shah vs. Ryan Manton vs. Will Stewart	2025 Tournament of Champions quarterfinal game 4.
+#9258, aired 2025-01-29	Greg Jolin vs. Weckiai Rannila vs. Neilesh Vinjamuri	2025 Tournament of Champions quarterfinal game 3.
+#9257, aired 2025-01-28	Amy Hummel vs. Grant DeYoung vs. David Erb	2025 Tournament of Champions quarterfinal game 2.
+#9256, aired 2025-01-27	Alison Betts vs. Will Wallace vs. Rishabh Wuppalapati	2025 Tournament of Champions quarterfinal game 1.
+#9255, aired 2025-01-24	Will Yancey vs. Drew Goins vs. Mehal Shah	2025 Champions Wildcard final game 2.
+#9254, aired 2025-01-23	Will Yancey vs. Drew Goins vs. Mehal Shah	2025 Champions Wildcard final game 1.
+#9253, aired 2025-01-22	Marko Saric vs. Mehal Shah vs. Paul Clauson	2025 Champions Wildcard semifinal game 3.
+#9252, aired 2025-01-21	Evan Dorey vs. Jay Fisher vs. Will Yancey	2025 Champions Wildcard semifinal game 2.
+#9251, aired 2025-01-20	Joey DeSena vs. Drew Goins vs. Jen Feldman	2025 Champions Wildcard semifinal game 1.
+#9250, aired 2025-01-17	Adam Hersh vs. Marko Saric vs. Will Weiss	2025 Champions Wildcard quarterfinal game 5.
+#9249, aired 2025-01-16	Joey DeSena vs. Mehal Shah vs. Eamonn Campbell	2025 Champions Wildcard quarterfinal game 4.
+#9248, aired 2025-01-15	Drew Goins vs. Jay Fisher vs. Aiden Orzech	2025 Champions Wildcard quarterfinal game 3.
+#9247, aired 2025-01-14	Davey Morrison vs. Stevie Ruiz vs. Evan Dorey	2025 Champions Wildcard quarterfinal game 2.
+#9246, aired 2025-01-13	Will Yancey vs. Paul Clauson vs. Jen Feldman	2025 Champions Wildcard quarterfinal game 1.
+#9245, aired 2025-01-10	Drew Goins vs. Sam Cameron vs. Enzo Cunanan	2024-2025 Second Chance competition week 2, final game 2.
+#9244, aired 2025-01-09	Drew Goins vs. Sam Cameron vs. Enzo Cunanan	2024-2025 Second Chance competition week 2, final game 1.
+#9243, aired 2025-01-08	Sam Cameron vs. Ferdinand Percentie vs. Lindsay Denninger	2024-2025 Second Chance competition week 2, semifinal game 3.
+#9242, aired 2025-01-07	Enzo Cunanan vs. Zoe Grobman vs. Josh Heit	2024-2025 Second Chance competition week 2, semifinal game 2.
+#9241, aired 2025-01-06	Jonquil Garrick-Reynolds vs. Steve Miller vs. Drew Goins	2024-2025 Second Chance competition week 2, semifinal game 1.
+#9240, aired 2025-01-03	Will Yancey vs. Colleen Matthews vs. Kaitlin Tarr	2024-2025 Second Chance competition week 1, final game 2.
+#9239, aired 2025-01-02	Will Yancey vs. Colleen Matthews vs. Kaitlin Tarr	2024-2025 Second Chance competition week 1, final game 1.
+#9238, aired 2025-01-01	Colleen Matthews vs. Gino Montoya vs. Josh Moss	2024-2025 Second Chance competition week 1, semifinal game 3. With...
+#9237, aired 2024-12-31	Scott Tcheng vs. Kaitlin Tarr vs. Mike Ferguson	2024-2025 Second Chance competition week 1, semifinal game 2. With...
+#9236, aired 2024-12-30	Alex Michev vs. Will Yancey vs. Tekla Sauter	2024-2025 Second Chance competition week 1, semifinal game 1. A...
+#9235, aired 2024-12-27	Laura Faddah vs. Megan Riddell vs. Herb Jeong	Laura Faddah game 7.
+#9234, aired 2024-12-26	Laura Faddah vs. Carole Portas Keane vs. Brad Grusnick	Laura Faddah game 6.
+#9233, aired 2024-12-25	Laura Faddah vs. Mathieu Farhoud-Dionne vs. Amber Gamrat	Laura Faddah game 5.
+#9232, aired 2024-12-24	Laura Faddah vs. Harry Jarin vs. Jenna Hayes	Laura Faddah game 4.
+#9231, aired 2024-12-23	Laura Faddah vs. Sean Maguire vs. Jenifer Miller	Laura Faddah game 3.
+#9230, aired 2024-12-20	Laura Faddah vs. Joe Asaminew vs. Maria Lauro	Laura Faddah game 2.
+#9229, aired 2024-12-19	Eric Weldon-Schilling vs. Neal Bowling vs. Laura Faddah	Laura Faddah game 1.
+#9228, aired 2024-12-18	Ashley Chan vs. Sarah Rosenthal vs. Eric Weldon-Schilling	Ashley Chan game 5.
+#9227, aired 2024-12-17	Ashley Chan vs. Jordan Carr Peterson vs. Jasmine Zhou	Ashley Chan game 4.
+#9226, aired 2024-12-16	Ashley Chan vs. Henry Barbaro vs. Matt Grossman	Ashley Chan game 3.
+#9225, aired 2024-12-13	Ashley Chan vs. Ram Murali vs. Carla Winston	Ashley Chan game 2.
+#9224, aired 2024-12-12	Bill McKinney vs. Ashley Chan vs. Alex Cousins	Ashley Chan game 1.
+#9223, aired 2024-12-11	Bill McKinney vs. Molly LeBlanc vs. Sam Nguyen
+#9222, aired 2024-12-10	Bill McKinney vs. Sara Walker vs. Dan Sand
+#9221, aired 2024-12-09	Dave Bond vs. Bill McKinney vs. Lisa O'Donnell
+#9220, aired 2024-12-06	Dave Bond vs. Zach DeBoer vs. Erin Adams
+#9219, aired 2024-12-05	Stevie Ruiz vs. Dave Bond vs. Lisa DiLeo
+#9218, aired 2024-12-04	Stevie Ruiz vs. Kimberley Debus vs. Gloria Nastas
+#9217, aired 2024-12-03	Evan Jones vs. Luca Gerace vs. Stevie Ruiz
+#9216, aired 2024-12-02	Susan Beachy vs. Evan Jones vs. Mike Ross
+#9215, aired 2024-11-29	Laurel Day vs. Susan Beachy vs. Nick Pietrowicz
+#9214, aired 2024-11-28	Kevin Laskowski vs. Debbie Mercer vs. Laurel Day	Kevin Laskowski game 4.
+#9213, aired 2024-11-27	Kevin Laskowski vs. Drew Wheeler vs. Julia Schan	Kevin Laskowski game 3.
+#9212, aired 2024-11-26	Kevin Laskowski vs. Ryan Smith vs. Samantha Altschuler	Kevin Laskowski game 2.
+#9211, aired 2024-11-25	Adam Hersh vs. Kevin Laskowski vs. Carolyn Gramling	Kevin Laskowski game 1.
+#9210, aired 2024-11-22	Mehal Shah vs. Courtney Schooley vs. Adam Hersh	Mehal Shah game 3.
+#9209, aired 2024-11-21	Mehal Shah vs. Jack Altman vs. Holly Luo	Mehal Shah game 2.
+#9208, aired 2024-11-20	Mikey McCullough vs. Elizabeth Little vs. Mehal Shah	Mehal Shah game 1.
+#9207, aired 2024-11-19	Paul Clauson vs. Mikey McCullough vs. Christopher Burge
+#9206, aired 2024-11-18	Paul Clauson vs. Amy Fleenor vs. Jonelle Lonergan
+#9205, aired 2024-11-15	Stephanie Asalone vs. Paul Clauson vs. Kristen Moreland
+#9204, aired 2024-11-14	Evan Dorey vs. Steven Czekala vs. Stephanie Asalone
+#9203, aired 2024-11-13	Joey DeSena vs. Evan Dorey vs. Lois Dioro
+#9202, aired 2024-11-12	Joey DeSena vs. Kathleen Clark vs. Jonathan Fox
+#9201, aired 2024-11-11	Rachel Marcus vs. Joey DeSena vs. Chris Spencer
+#9200, aired 2024-11-08	Susan Stumme vs. Ross Dickson vs. Rachel Marcus
+#9199, aired 2024-11-07	Greg Jolin vs. Susan Stumme vs. Sammy Sanchez	Greg Jolin game 6.
+#9198, aired 2024-11-06	Greg Jolin vs. Derek Hieronymus vs. Adrienne Clermont	Greg Jolin game 5.
+#9197, aired 2024-11-05	Greg Jolin vs. Priscilla Gruenewald vs. Chuck Rea	Greg Jolin game 4.
+#9196, aired 2024-11-04	Greg Jolin vs. Lindsey Simmons vs. Brian Frey	Greg Jolin game 3.
+#9195, aired 2024-11-01	Greg Jolin vs. Julie Phillips vs. Sam Cameron	Greg Jolin game 2.
+#9194, aired 2024-10-31	Joseph Carlstein vs. Alicia Buffa vs. Greg Jolin	Greg Jolin game 1.
+#9193, aired 2024-10-30	John Liu vs. Joseph Carlstein vs. Jacqui Kaplan
+#9192, aired 2024-10-29	Ian Taylor vs. Aimée Record vs. John Liu
+#9191, aired 2024-10-28	Will Wallace vs. Ian Taylor vs. Heather Ryan	Will Wallace game 5.
+#9190, aired 2024-10-25	Will Wallace vs. Carol Lowe vs. Olaf Talbert	Will Wallace game 4.
+#9189, aired 2024-10-24	Will Wallace vs. Kiki Jamieson vs. Dan Meyer	Will Wallace game 3.
+#9188, aired 2024-10-23	Will Wallace vs. Sophia Maymudes vs. Brett Kelly	Will Wallace game 2.
+#9187, aired 2024-10-22	Tristan Brown vs. Stephanie Cooper vs. Will Wallace	Will Wallace game 1.
+#9186, aired 2024-10-21	Kelly Gates vs. Marcus Ghiringhelli vs. Tristan Brown
+#9185, aired 2024-10-18	Rishabh Wuppalapati vs. Kyle Compton-Troesch vs. Kelly Gates	Rishabh Wuppalapati game 4.
+#9184, aired 2024-10-17	Rishabh Wuppalapati vs. Angel Poe vs. Aaron Brown	Rishabh Wuppalapati game 3.
+#9183, aired 2024-10-16	Rishabh Wuppalapati vs. Jay Eversman vs. Rachel Cassidy	Rishabh Wuppalapati game 2.
+#9182, aired 2024-10-15	Eamonn Campbell vs. Rishabh Wuppalapati vs. Zoe Grobman	Rishabh Wuppalapati game 1.
+#9181, aired 2024-10-14	Eamonn Campbell vs. Jack Swansey vs. Caryn Radick	Modified set with single-screen game board and new Final Jeopardy!...
+#9180, aired 2024-10-11	Mark Fitzpatrick vs. Eamonn Campbell vs. Dot White	Mark Fitzpatrick game 6.
+#9179, aired 2024-10-10	Mark Fitzpatrick vs. Mike Obstgarten vs. Cynthia Bullock	Mark Fitzpatrick game 5.
+#9178, aired 2024-10-09	Mark Fitzpatrick vs. Rob Franke vs. Colleen Kelly	Mark Fitzpatrick game 4.
+#9177, aired 2024-10-08	Mark Fitzpatrick vs. Andrew Miller vs. Gino Montoya	Mark Fitzpatrick game 3.
+#9176, aired 2024-10-07	Mark Fitzpatrick vs. Daniel Gately vs. Amanda Prusila	Mark Fitzpatrick game 2.
+#9175, aired 2024-10-04	Ryan Manton vs. Anne Singleton vs. Mark Fitzpatrick	Ryan Manton game 5. Mark Fitzpatrick game 1.
+#9174, aired 2024-10-03	Ryan Manton vs. Adam Stewart vs. Emily Stowell-Bui	Ryan Manton game 4.
+#9173, aired 2024-10-02	Ryan Manton vs. Scott Tcheng vs. Erin Ward	Ryan Manton game 3.
+#9172, aired 2024-10-01	Ryan Manton vs. Brooke Levine vs. Mike McComb	Ryan Manton game 2.
+#9171, aired 2024-09-30	Kate Roesch vs. Alison Prelusky vs. Ryan Manton	Ryan Manton game 1.
+#9170, aired 2024-09-27	Maddie Carwile vs. Marianne McGowan vs. Kate Roesch	Clips from this show appeared on the 2025-06-19 episode of...
+#9169, aired 2024-09-26	David Erb vs. Alex Michev vs. Maddie Carwile	David Erb game 4.
+#9168, aired 2024-09-25	David Erb vs. Drew Goins vs. Diane Lochner	David Erb game 3. Drew Goins game 1.
+#9167, aired 2024-09-24	David Erb vs. Rachael Crawley vs. Carter Scott	David Erb game 2.
+#9166, aired 2024-09-23	Jen Feldman vs. David Erb vs. Dana Schwartz	David Erb game 1.
+#9165, aired 2024-09-20	Jen Feldman vs. Santhosh Sastry vs. Sarah Preisinger
+#9164, aired 2024-09-19	Chris Lindsay vs. Jen Feldman vs. Fr. Steve Jakubowski
+#9163, aired 2024-09-18	Aiden Orzech vs. Chris Lindsay vs. Sam Neuman
+#9162, aired 2024-09-17	Aiden Orzech vs. Alisa Kindsfater vs. Will Yancey
+#9161, aired 2024-09-16	Evan Suttell vs. Sam Watson vs. Aiden Orzech
+#9160, aired 2024-09-13	Mark Palmere vs. Evan Suttell vs. Hilary Glazer
+#9159, aired 2024-09-12	Will Weiss vs. Mark Palmere vs. Bethany Korp
+#9158, aired 2024-09-11	Will Weiss vs. Ben Gagne-Maynard vs. Kristen Robinson
+#9157, aired 2024-09-10	Adam Reiffen vs. Mary Catherine French vs. Will Weiss
+#9156, aired 2024-09-09	Rachel Bradley vs. Adam Reiffen vs. Amanda White	First game of Season 41.
