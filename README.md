@@ -1,6 +1,6 @@
-CS230 Python Projects
+CS230 Homework
 
-These are my cs 230 homework assignments.
+These are my CS 230 homework assignments.
 
 Includes:
 - Homework 1: Cost calculator
